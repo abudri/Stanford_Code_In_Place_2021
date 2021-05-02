@@ -115,3 +115,11 @@ YELLOW
 How to take a big problem and break it down into smaller pieces, that process of breaking it down is called Decomposition / Step-wise Refinement. It's like how you decompose and break down things that are organic. The same word.  We're going to learn how to take big problems and break them down to smaller pieces so that you can solve great tasks without writing really convoluted code.  It's a real art form and it's incredibly important, and it's one of the most important things about becoming a great engineer. It has other names some people call it stepwise refinement but it's the same art form that people are talking about. We also choose **milestones** when doing decomposition, and once one milestone is solved and tested, we move on to the next milestone to work on, so we decompose with milestones, such as "wash up" below. [Week 1, Lesson 3]
 
 <img src="https://user-images.githubusercontent.com/17362519/116785789-5f2ced80-aa69-11eb-9f50-195e62b6ba61.png" width="550;" />
+
+
+## Pro Tips
+
+### Functions
+
+<img src="https://user-images.githubusercontent.com/17362519/116786570-576f4800-aa6d-11eb-9bab-4c0c899969fb.png" width="350;" />
+
